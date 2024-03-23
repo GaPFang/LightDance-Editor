@@ -339,6 +339,22 @@ const dancerTable: DancerData = {
     connected: false,
     interface: "wifi",
   },
+  // "B8:27:EB:83:0B:44": {
+  //   IP: "192.168.0.0",
+  //   MAC: "B8:27:EB:83:0B:44",
+  //   dancer: "24",
+  //   hostname: "lightdance-24",
+  //   connected: false,
+  //   interface: "ethernet",
+  // },
+  // "B8:27:EB:D6:5E:11": {
+  //   IP: "192.168.0.0",
+  //   MAC: "B8:27:EB:D6:5E:11",
+  //   dancer: "24",
+  //   hostname: "lightdance-24",
+  //   connected: false,
+  //   interface: "wifi",
+  // },
   // 22 replaced
   // 23 broken
   // 24 replaced
